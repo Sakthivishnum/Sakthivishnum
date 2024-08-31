@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakthi Vishnu</h1>
+<h1 align="center">Hi, I'm Sakthi Vishnu</h1>
 <h3 align="center">Enthusiastic full stack developer eager to build responsive web applications, mastering front-end and back-end technologies. Ready to make an impact.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakthivishnum" alt="sakthivishnum" /></a> </p>
